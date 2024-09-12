@@ -1,5 +1,5 @@
 # CSC207 Week 1 Lab Activity #1: Fizz Buzz
-Hi!
+Hi! pt. 2
 
 Let's start off our exploration of Java with a classic programming challenge, Fizz Buzz!
 
